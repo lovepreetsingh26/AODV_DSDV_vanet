@@ -1,2 +1,6 @@
 # AODV_DSDV_vanet
 Efficiency comparison between AODV and DSDV protocols using NS2 and open street map in VANET
+ABSTRSCT:Theoretical Envision what goes on wherein a car shares its manual facts, for example, role, velocity, route, and so on also protection message like site visitors, difficult, avenue situation and so forth with different close by automobiles so close by automobile can recognize the situation with visitors, mishap statistics, avenue situations and so forth formerly coming to or confronting it. in this manner, we will lessen road mishaps, decline the maintaining up at traffic lighting, save the life of people. we're started to plan and examination of the transmitter of a car hub which conveys the in high dynamic climate and incessant network exchange condition. We tested the everyday package deal success proportion and throughput of VANET in real site visitors situations for specific directing conventions. Our proposed plan and examination proven that transmitter is appropriate for vehicle to vehicle correspondence and plays stepped forward bring about actual visitors conditions and excessive dynamic weather.
+RESULTS:
+![image](https://user-images.githubusercontent.com/65604406/222213216-d6e4c913-2fec-4b42-b7f7-7777012956f3.png)
+![image](https://user-images.githubusercontent.com/65604406/222213318-e96d3fd4-4de0-4c42-8ee2-3582e8c8e8d2.png)
